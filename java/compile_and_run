@@ -1,0 +1,1 @@
+javac -classpath junit.jar *.java && junit CheckoutTests
